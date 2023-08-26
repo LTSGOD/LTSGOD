@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning **Computer Vision**
+<!-- 🌱 I’m currently learning **Computer Vision**-->
 - 📚 I majored in **Computer Engineering** in Hongik Univ.
-- 💖 I'm interested in **Data Engineering.**
+<!-- 💖 I'm interested in **Data Engineering.**-->
 
 #### ACTIVITIES
 - 2023.03 ~ 2023.08 **네이버 부스트캠프 AI TECH** 5기(Computer Vision)
