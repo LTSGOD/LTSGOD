@@ -5,6 +5,7 @@
 
 #### ACTIVITIES
 - 2023.03 ~ 2023.08 **네이버 부스트캠프 AI TECH** 5기(Computer Vision)
+- 2024.03 ~ **한이음 ICT** 
 
 #### PROJECTS
 
