@@ -6,11 +6,11 @@
 #### ACTIVITIES
 
 - 2024.07 ~ **삼성전자 DX부문 대학생 알고리즘 특강**(with Java)
-- 2024.03 ~ **한이음 ICT 프로젝트**
 - 2023.03 ~ 2023.08 네이버 부스트캠프 AI TECH 5기(Computer Vision)
 
 #### PROJECTS
 
+- 2024.03 ~ **한이음 ICT 프로젝트**
 - 2023.06 ~ 2023.07 [앗, 『이 세계』로부터의 손님이 내게 찾아왔다!?](https://github.com/LTSGOD/level3_cv_finalproject-cv-16) - 인물 『 애니메이션 』 화 프로젝트
 - 2023.06 [손뼈 이미지 Segmentation](https://github.com/LTSGOD/level2_cv_semanticsegmentation-cv-16) - X-ray 이미지에서 사람의 뼈를 Segmentation하는 모델 성능 개선 대회
 - 2023.05 [글자 검출 프로젝트](https://github.com/LTSGOD/level2_cv_datacentric-cv-16) - 학습 데이터 추가 및 수정을 통한 이미지 속 글자 검출 성능 개선
