@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 📚 I majored in **Computer Engineering** in Hongik Univ.
+<!-- - 📚 I majored in **Computer Engineering** in Hongik Univ.
 
-<!-- #### ACTIVITIES
+#### ACTIVITIES
 
 - 2024.07 ~ 2024.09 삼성전자 DX부문 대학생 알고리즘 특강
 - 2023.03 ~ 2023.08 네이버 부스트캠프 AI TECH 5기(Computer Vision)
